@@ -1,1 +1,46 @@
-# code in here
+email = "josephine@abc.co.uk"
+name = "josephine"
+console= "playstation"
+age=50
+price=4.99
+
+#above are 2 variables
+#one is called "email"
+#other is called "name"
+#both contain data
+
+
+print(email)
+print(name)
+print(console)
+print(age)
+print(price)
+
+#print is a function
+#it displays text to a screen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
