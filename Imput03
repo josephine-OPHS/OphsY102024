@@ -1,0 +1,11 @@
+Team1Name="Rising stars"
+Team2Name="Lightings"
+
+FREETHROW=1
+TWOPOINTER=2
+THREEPOINTER=2
+
+#In the game of Basketball
+#The points will never change
+#It makes sense to
+#Define the points in CONSTANTS
