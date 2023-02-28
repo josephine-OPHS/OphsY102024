@@ -7,7 +7,7 @@ print(age)
 bestColour=str(input("Fav colour"))
 print (bestColour)
 
-price= float(imput("Enter price:"))
+price= float(input("Enter price:"))
 print(price)
 
 
