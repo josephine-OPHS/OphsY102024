@@ -1,0 +1,14 @@
+rain=str(input("Is it raining >>>")).lower()
+print(rain)
+
+wind=input("Is it windy >>>").lower()
+print(wind)
+
+wind2=input("it is too windy for an umbrella>>>").lower()
+
+
+if rain==wind2:
+  print("take an umbrella")
+  
+else:
+  print ("enjoy your day")
