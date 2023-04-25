@@ -1,0 +1,2 @@
+for singleletter in "Paris":
+  print (singleletter)
