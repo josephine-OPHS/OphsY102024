@@ -1,0 +1,6 @@
+fName=str(input("Enter your FIRST name"))
+LName=str(input("Enter your LAST name"))
+Length = len(fName+LName)
+print(Length)
+full= fName+" "+LName
+print (full)
