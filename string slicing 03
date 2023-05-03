@@ -1,0 +1,5 @@
+fName=str(input("Enter your FIRST name as a lower case"))
+LName=str(input("Enter your LAST name as a lower case"))
+
+full= fName+" "+LName
+print (full)
