@@ -1,0 +1,3 @@
+name=str(input("Enter your name"))
+lengthName=len (name)
+print (lengthName)
