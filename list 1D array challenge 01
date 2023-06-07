@@ -1,0 +1,10 @@
+cars = ["Ford", "BMW", "Honda"]
+carbrand1=str(input("Enter a car brand:"))
+print(carbrand1)
+
+carbrand2=str(input("Enter a car brand:"))
+print (carbrand2)
+
+carbrand3=str(input("Enter a car brand:"))
+print (carbrand3)
+print (cars) 
